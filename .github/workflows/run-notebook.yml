@@ -8,7 +8,7 @@ on:
 
 jobs:
   run-notebook:
-    runs-on: linux
+    runs-on: ubuntu-latest
 
     steps:
     # 检出代码
